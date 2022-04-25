@@ -12,7 +12,7 @@ namespace Hex2PE.Core {
 
             return hexValues;
         }
-
+        // convert hex values of file back to bytes
         public static byte[] ConvertHexToByteArray(string hexString) {
             byte[] byteArray = new byte[hexString.Length / 2];
 
