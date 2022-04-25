@@ -1,5 +1,5 @@
 # HexToPE
-Converts hexadecimal into a byte array that saves into a file 
+Converts hexadecimal to a byte array that saves into a file.
             
             //Convert an exe into bytes to hex.
             string Filename = @"HelloWorld.exe";
